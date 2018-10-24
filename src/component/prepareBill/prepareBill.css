@@ -1,0 +1,65 @@
+.background{
+  padding-top: 1%;
+  padding-left: 2%;
+  border: 1px solid gray;
+  background: firebrick;
+  color:thistle;
+  
+}
+button{
+  margin: .5%;
+}
+
+.saveBill{
+text-align:center;
+margin-top:5%;
+}
+.saveBillButton{
+  padding-left:10%;
+  padding-right:10%;
+ background:#23304C;
+ color:wheat;
+ font-weight:bolder;
+}
+.feesLabel{
+  color:#23304C;
+  font-weight: bolder;
+}
+.studentInfoLabel{
+  color:#23304C;
+  font-weight: bolder;
+}
+
+h4{
+  color:#23304C;
+  font-weight: bolder;
+  text-align: center;
+  margin-top:4%;
+
+}
+.billForm1{
+ padding:2%;
+ margin-top:5%;
+}
+
+.billForm2{
+  padding:2%;
+}
+.buttonSpace{
+  margin-top:2%;
+}
+
+.bill-heading{
+  color:#23304C;
+  font-weight: bolder;
+  font-size:20px;
+  text-align:center;
+}
+
+.bill-heading1{
+  color:#23304C;
+  font-weight: bolder;
+  font-size:20px;
+  text-align:center;
+  padding-top:4%;
+}
